@@ -1,0 +1,2 @@
+# .github
+Details on Skynetxbt
