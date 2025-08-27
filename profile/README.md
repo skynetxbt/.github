@@ -17,7 +17,7 @@ SkynetXBT is a no-code/low-code platform designed to bridge the gap between adva
 ## ✨ Core Features
 
 * 🧠 **Visual Flow Builder:** A drag-and-drop, node-based interface to design complex agent logic. Connect AI models, APIs, and smart contracts with ease.
-* 🔧 **Massive Integration Library:** Access a growing library of 8,000+ pre-built nodes, including hundreds of specialized Web3 tools (DeFi protocols, oracle data, wallet interactions, etc.).
+* 🔧 **Massive Integration Library:** Access a growing library of 100+ pre-built nodes, including hundreds of specialized Web3 tools (DeFi protocols, oracle data, wallet interactions, etc.).
 * 🚀 **One-Click Deployment:** Seamlessly deploy your agents to our decentralized marketplace or your own infrastructure.
 * 🧩 **Modular & Extensible:** Built with modularity in mind. Easily create and share your own custom nodes to extend the platform's capabilities.
 
