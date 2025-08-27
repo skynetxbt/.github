@@ -23,6 +23,11 @@ SkynetXBT is a no-code/low-code platform designed to bridge the gap between adva
 
 ---
 
+## Virtuals Protocol
+
+* Agents created with Skynet Can be ACP Enabled
+* Create buyer or seller just by connecting nodes
+
 ## 🚀 Get Involved & Connect
 
 <p align="left">
